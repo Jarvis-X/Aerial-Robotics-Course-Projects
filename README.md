@@ -6,3 +6,9 @@
   
     - In the first cell, we can change the friction coefficient, damping factors, mass, and even gravity. We can also choose to enable/disable the fiction and damping effects.
     - In the last cell, the variable ***sampling*** controls the ratio of visualization samplings. For example, ***sampling = 10*** means every 1 out of 10 data points are visualized.
+
+## HW2 - position and attitude controller
+  - Part a: launch a projectile on a ramp with not parallel force input
+  - For interactive notebook, go to https://colab.research.google.com/drive/1HlUETEldiHSXAVo6sqwZfGaZCL3xcmWI?usp=sharing
+  - Important parameters:
+    - In the forth cell, we can set the relative position of the target to the end of ramp by changing `x_t` and `y_t`
