@@ -13,6 +13,6 @@
     - Important parameters:
       - In the forth cell, we can set the relative position of the target to the end of ramp by changing `x_t` and `y_t`
   - Part b: place a rod with care
-      - For interactive notebook, go tohttps://colab.research.google.com/drive/1YxV9Z6BHG0ghsUX1eXtSjnWWXJkrLoBd?usp=sharing
+      - For interactive notebook, go to https://colab.research.google.com/drive/1YxV9Z6BHG0ghsUX1eXtSjnWWXJkrLoBd?usp=sharing
       - Important parameters:
         - In the first cell, we can set the desired state of the rod by modifying `des_state` whose unit is [rad, rad/s]
