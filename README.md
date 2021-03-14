@@ -18,11 +18,11 @@
         - In the first cell, we can set the desired state of the rod by modifying `des_state` whose unit is [rad, rad/s]
 
 ## HW4 - 2D mutirotors
-  - Part a: controlling a fully-actuated rigid mutirotor system.
+  - Part a: controlling a fully-actuated rigid mutirotor system. Notebook file: CS498HW4Single.ipynb
     - For interactive notebook, go to 
     - Important parameters:
       
-  - Part b: controlling a fully-actuated mutirotor system that consists of two rigid segments.
+  - Part b: controlling a fully-actuated mutirotor system that consists of two rigid segments. Notebook file: CS498HW4DoublePen.ipynb
       - For interactive notebook, go to 
       - Important parameters:
        
