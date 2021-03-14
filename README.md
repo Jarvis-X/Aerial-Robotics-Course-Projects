@@ -19,8 +19,14 @@
 
 ## HW4 - 2D mutirotors
   - Part a: controlling a fully-actuated rigid mutirotor system. Notebook file: CS498HW4Single.ipynb
-    - For interactive notebook, go to 
-    - Important parameters:
+    - For interactive notebook, go to https://colab.research.google.com/drive/11i3Ypmu5VCZX0gJVKHburbBzGW0hQmkq?usp=sharing
+    - Important parameters in the first cell: 
+      - inertia: `I`
+      - mass `m`
+      - Do we want constains? `en_constrain = False` This somehow affects the performance very badly.
+      - number of motors `n`
+      - position of the thrusters `p`
+      - tilting angles of the propellers `alpha`
       
   - Part b: controlling a fully-actuated mutirotor system that consists of two rigid segments. Notebook file: CS498HW4DoublePen.ipynb
       - For interactive notebook, go to https://colab.research.google.com/drive/1JBnZ6BNrV6XSq7xZNsVIBRgbU44lQprr?usp=sharing
