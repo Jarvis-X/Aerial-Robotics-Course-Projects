@@ -16,3 +16,13 @@
       - For interactive notebook, go to https://colab.research.google.com/drive/1YxV9Z6BHG0ghsUX1eXtSjnWWXJkrLoBd?usp=sharing
       - Important parameters:
         - In the first cell, we can set the desired state of the rod by modifying `des_state` whose unit is [rad, rad/s]
+
+## HW4 - 2D mutirotors
+  - Part a: controlling a fully-actuated rigid mutirotor system.
+    - For interactive notebook, go to 
+    - Important parameters:
+      
+  - Part b: controlling a fully-actuated mutirotor system that consists of two rigid segments.
+      - For interactive notebook, go to 
+      - Important parameters:
+       
