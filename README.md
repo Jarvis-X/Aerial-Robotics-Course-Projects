@@ -34,3 +34,7 @@
         - In the first cell, we can set the masses of the two segments of rods by changing `m1`, `m2`; the *half length* of the rod can be changed by modifying `l`.
         - We can also change the tilting angles of the inner propellers by altering `alpha` and `beta` 
         - `en_constrain = True` gives us a peek over the effects of the limited thrusts
+
+## HW6 - 3D magic box
+  - Note the changes we made in magicbox.ttt. Notebook file: CS498HW6MagicBox.ipynb
+    - For interactive notebook, go to https://colab.research.google.com/drive/1C4iBLhZsbcEgFsV4vO2uo_RFEP4m82am?usp=sharing
