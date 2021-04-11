@@ -38,3 +38,7 @@
 ## HW6 - 3D magic box
   - Note the changes we made in magicbox.ttt. Notebook file: CS498HW6MagicBox.ipynb
     - For interactive notebook, go to https://colab.research.google.com/drive/1C4iBLhZsbcEgFsV4vO2uo_RFEP4m82am?usp=sharing
+
+## HW7 - Omni-HModQuad
+  - Note the notebook file CS498HW7OmniPlus.ipynb works with the CoppeliaSim file propeller8.ttt under thois repository. It may work with the original propeller8.ttt provided by the professor.
+    - For interactive notebook, go to https://colab.research.google.com/drive/1II4TMzxL9sNCK_McUVR4cQXTqVpIp3iY?usp=sharing
