@@ -35,6 +35,9 @@
         - We can also change the tilting angles of the inner propellers by altering `alpha` and `beta` 
         - `en_constrain = True` gives us a peek over the effects of the limited thrusts
 
+## HW5 - 2D trajectory follower
+  - For interactive notebook, go to https://colab.research.google.com/drive/1wLVfaOgR0UJhEyLk7uqlbRGVnMFmB2a5?usp=sharing
+
 ## HW6 - 3D magic box
   - Note the changes we made in magicbox.ttt. Notebook file: CS498HW6MagicBox.ipynb
     - For interactive notebook, go to https://colab.research.google.com/drive/1C4iBLhZsbcEgFsV4vO2uo_RFEP4m82am?usp=sharing
